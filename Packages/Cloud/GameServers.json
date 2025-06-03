@@ -1,0 +1,12 @@
+{
+  "GameServers": [
+    {
+      "name": "Primary Server",
+      "url": "https://omega.xyz/gameserver",
+      "region": "Global",
+      "status": "online",
+      "maxPlayers": 100,
+      "currentPlayers": []
+    }
+  ]
+}
